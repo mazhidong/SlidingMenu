@@ -1,3 +1,5 @@
+注意：开源项目上提供的example代码还需要引入ActionBarSherlock作为library，配置比较复杂。简单参考的话可以看我在GitHub上的示例程序：
+
 SlidingMenu ([Play Store Demo][7])
 ===========
 
